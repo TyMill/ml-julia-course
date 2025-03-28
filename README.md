@@ -1,6 +1,9 @@
 # 🧠 Machine Learning with Julia – `ml-julia-course`
 
 [![DOI](https://zenodo.org/badge/955290469.svg)](https://doi.org/10.5281/zenodo.15100006)
+![Version](https://img.shields.io/github/v/release/TyMill/ml-julia-course)
+![License](https://img.shields.io/github/license/TyMill/ml-julia-course)
+
 
 
 📘 **ml-julia-course** to praktyczny kurs uczenia maszynowego w języku Julia, zawierający komplet 17 notatników prowadzących krok po kroku od podstaw języka do zaawansowanego AutoML.
