@@ -3,6 +3,8 @@
 [![DOI](https://zenodo.org/badge/955290469.svg)](https://doi.org/10.5281/zenodo.15100006)
 ![Version](https://img.shields.io/github/v/release/TyMill/ml-julia-course)
 ![License](https://img.shields.io/github/license/TyMill/ml-julia-course)
+![Contributors](https://img.shields.io/github/contributors/TyMill/ml-julia-course)
+
 
 
 
