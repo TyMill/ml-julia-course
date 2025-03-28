@@ -1,1 +1,25 @@
-# Projekt Julia - zależności
+name = "ml-julia-course"
+uuid = "e4b84e89-a89f-4e76-a2fa-mljc00000001"
+authors = ["dr Tymoteusz Miller"]
+version = "0.1.0"
+description = "Praktyczny kurs uczenia maszynowego w języku Julia, zawierający komplet 17 notatników prowadzących krok po kroku od podstaw języka do zaawansowanego AutoML."
+julia = "1.9"
+
+[deps]
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+Clustering = "aaaa29a8-35af-508c-8bc3-b662a17a0fe5"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+DecisionTree = "7806a523-6efd-50cb-b5f6-3fa6f1930dbb"
+MLJ = "add582a8-493e-5016-a2da-2f0b0d25b3e3"
+MLJDecisionTreeInterface = "c6f6ee83-58e0-5934-b8f3-10f8f5888b6e"
+MLJLinearModels = "5ae90465-6915-5812-a066-16b2d9113019"
+MLJModels = "d491faf4-2d78-5f55-b1f5-c886da3a4c17"
+MLJTuning = "d491faf4-2d78-5f55-b1f5-c886da3a4c17"
+MultivariateStats = "6f286f6a-111f-5878-ab1e-185364afe411"
+NaiveBayes = "c52e3926-346b-5b9d-8e67-b4fad1e4b6e1"
+NearestNeighborModels = "636a865e-7cfb-4b80-9c93-6d3781d78843"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+ROCAnalysis = "f535334b-80a9-5847-8078-310b086d4f71"
+Statistics = "10745b16-2ce7-5a5e-84dd-204472afab41"
+StatsPlots = "f3b207a7-027a-5e70-b257-86293d7955fd"
+SynthPred = "b1491b6f-d176-4b8e-a7f4-7d79c2c9185d"
