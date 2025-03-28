@@ -1,1 +1,4 @@
-# Projekt Julia - zależności
+using Pkg
+Pkg.instantiate()
+Pkg.resolve()
+Pkg.status()
