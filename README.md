@@ -4,6 +4,7 @@
 ![Version](https://img.shields.io/github/v/release/TyMill/ml-julia-course)
 ![License](https://img.shields.io/github/license/TyMill/ml-julia-course)
 ![Language](https://img.shields.io/github/languages/top/TyMill/ml-julia-course)
+![GitHub all releases](https://img.shields.io/github/downloads/TyMill/SynthPred/total?label=📦%20Downloads&style=plastic)
 
 
 
